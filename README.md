@@ -1,4 +1,4 @@
-# LinkTree
+# 🌲 LinkTree
 
 This project was created following RocketSeat's Explorer Marathon.
 
